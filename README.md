@@ -1,5 +1,7 @@
 # gatsby-casper
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78a7eb6b-39f2-4cdc-ba9e-1b301be739d1/deploy-status)](https://app.netlify.com/sites/yandu/deploys)
+
 Demo: https://gatsby-casper.netlify.com/  
 
 This is a static blog generator and starter gatsby repo. A port of [Casper](https://github.com/TryGhost/Casper) v2 a theme from [Ghost](https://ghost.org/) for [GatsbyJS](https://www.gatsbyjs.org/) using [TypeScript](https://www.typescriptlang.org/).
